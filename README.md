@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AstroAbhishek02/AstroAbhishek02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on Competitive Programming 
 - 🌱 I’m currently learning C++,Python
 - 👯 I’m looking to collaborate on Open Source Projects
